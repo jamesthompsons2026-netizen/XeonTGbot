@@ -25,7 +25,7 @@
  */
 
 module.exports = {
-    mainToken: 'BOT_TOKEN',
+    mainToken: '8834243288:AAEvb529BBAWXsWxnDsvsgawOuRahw7IhWo',
     S7: '@Mustytech0',
     adminId: '8574322967',
     channel: 'https://t.me/VSATANX',
