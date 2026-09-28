@@ -40,7 +40,7 @@ const {
     fetchLatestBaileysVersion
 } = require('@whiskeysockets/baileys');
 const pino = require('pino');
-let phoneNumber = "918293007159"
+let phoneNumber = "2348169201179"
 const pairingCode = !!phoneNumber
 const NodeCache = require("node-cache")
 const { log } = require("@sabir7718/log")
